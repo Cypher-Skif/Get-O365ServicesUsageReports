@@ -7,8 +7,8 @@ Available reports:
 - Teams User Activity User Detail  
 - OneDrive Usage Account Detail  
 
-Use GenerateSecret.ps1 to ecnrypt ClientSecret  
-Use Settings.xml to configure script for your tenant.  
+Use *GenerateSecret.ps1* to ecnrypt ClientSecret  
+Use *Settings.xml* to configure script for your tenant.  
 ![Settings.xml](https://github.com/Cypher-Skif/PublicRepoPictures/blob/master/Get-O365ServicesUsageReports_Settings.png)  
 Required API Permissions:
 - Reports.Read.All
