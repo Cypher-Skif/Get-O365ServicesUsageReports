@@ -6,6 +6,7 @@ Available reports:
 - SkypeForBusiness Activity User Detail  
 - Teams User Activity User Detail  
 - OneDrive Usage Account Detail  
+
 Use GenerateSecret.ps1 to ecnrypt ClientSecret  
 Use Settings.xml for configuring script for your tenant.  
 ![Settings.xml](https://github.com/Cypher-Skif/PublicRepoPictures/blob/master/Get-O365ServicesUsageReports_Settings.png)  
