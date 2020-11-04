@@ -1,4 +1,4 @@
-# Get-O365UsageDetails
+# Get-O365ServicesUsageReports  
 Get report about O365 services usage, can generate summary O365 services usage reports and send it through on-premise exchange relay.
 Available reports:   
 - Office365 Active User Detail  
