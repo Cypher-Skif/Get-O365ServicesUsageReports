@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Settings>
+    <TenantSettings>
+        <tenantID>TenantID</tenantID>
+        <appID>appID</appID>
+        <graphUrl>https://graph.microsoft.com</graphUrl>
+    </TenantSettings>
+    <PathSettings>
+        <logFileName>Get-O365UsageReport.log</logFileName>
+    </PathSettings>
+    <EmailSettings>
+        <Sender>Sender</Sender>
+        <Recipients>Recipients</Recipients>
+        <SMTPServer>SMTPServer</SMTPServer>
+        <EmailPort>EmailPort</EmailPort>
+    </EmailSettings>
+</Settings>

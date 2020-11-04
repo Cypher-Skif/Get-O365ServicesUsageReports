@@ -1,0 +1,7 @@
+Secret.xml
+Reports/*.xlsx
+Secret.xml
+logs/2020-11-04-Get-O365UsageReport.log
+*.xlsx
+*.log
+Get-O365UsageReport.log
